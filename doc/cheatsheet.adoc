@@ -1,0 +1,46 @@
+= Main title
+
+== Help
+You can find an online editor at https://asciidoclive.com/[this page].
+
+== Lorem Ipsum
+In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. It is also used to temporarily replace text in a process called greeking, which allows designers to consider the form of a webpage or publication, without the meaning of the text influencing the design.
+
+This will be *bold*.
+
+While this will be _italic_.
+
+
+== Lists
+* Q: How did the programmer die in the shower?
+  A: He read the shampoo instructions:
+
+  . Lather, rinse.
+  . Repeat.
+
+* There are only 10 kinds of people in this world:
+  - Those who understand binary.
+  - Those who don't.
+
+== Quotes
+* Quotes:
++
+[quote,"Charles Dickens","A Tale of Two Cities"]
+It was the best of times, it was the worst of times, it was the age of wisdom,
+it was the age of foolishness...
+
+== Links
+Links:
+
+http://asciidoclive.com/[AsciiDocLIVE^] is awesome!
+
+
+== Images
+Images:
+
+image:https://i.imgur.com/AEkqoRn.jpg[alt="not bad.",width=128,height=128]
+
+== Videos
+Videos from Youtube:
+
+video::th_H1gixMEE[youtube]
