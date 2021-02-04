@@ -1,4 +1,4 @@
-= Start
+= At the Docks
 
 *Situation:*
 
@@ -9,5 +9,6 @@
 
 *Possible Actions:*
 
-link:1_bar.adoc[Choose to continue the discussion in a bar]
-link:1_friends.adoc[Choose to continue the discussion at a friend's]
+link:1_bar.html[Choose to continue the discussion in a bar]
+
+link:1_friends.html[Choose to continue the discussion at a friend's]
